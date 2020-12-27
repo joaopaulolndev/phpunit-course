@@ -1,0 +1,9 @@
+My
+ [x] First assertion
+
+BMICalculator
+ [x] Shows underweight when bmi less than 18
+ [x] Shows normal when bmi between 1825
+ [x] Shows overweight when bmi greater than 25
+ [x] Can calculate correct bmi
+

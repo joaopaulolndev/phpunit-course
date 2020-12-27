@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests>
+  <test className="MyTest" methodName="testFirstAssertion" prettifiedClassName="My" prettifiedMethodName="First assertion" status="0" time="0.0020029544830322" size="-1" groups="default">
+    <group name="default"/>
+  </test>
+  <test className="BMICalculatorTest" methodName="testShowsUnderweightWhenBmiLessThan18" prettifiedClassName="BMICalculator" prettifiedMethodName="Shows underweight when bmi less than 18" status="0" time="0.00034022331237793" size="-1" groups="default">
+    <group name="default"/>
+  </test>
+  <test className="BMICalculatorTest" methodName="testShowsNormalWhenBmiBetween1825" prettifiedClassName="BMICalculator" prettifiedMethodName="Shows normal when bmi between 1825" status="0" time="6.8902969360352E-5" size="-1" groups="default">
+    <group name="default"/>
+  </test>
+  <test className="BMICalculatorTest" methodName="testShowsOverweightWhenBmiGreaterThan25" prettifiedClassName="BMICalculator" prettifiedMethodName="Shows overweight when bmi greater than 25" status="0" time="7.8916549682617E-5" size="-1" groups="default">
+    <group name="default"/>
+  </test>
+  <test className="BMICalculatorTest" methodName="testCanCalculateCorrectBmi" prettifiedClassName="BMICalculator" prettifiedMethodName="Can calculate correct bmi" status="0" time="0.00026988983154297" size="-1" groups="default">
+    <group name="default"/>
+  </test>
+</tests>
